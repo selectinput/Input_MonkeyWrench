@@ -5,21 +5,21 @@ Each pin is `INPUT_PULLUP` — short pin to GND to trigger.
 
 ## Pin Map
 
-| Pin | Key          | Typical Use            |
-|-----|--------------|------------------------|
-| 2   | Space        | Morse key / jump       |
-| 3   | Enter        | Confirm / send         |
-| 4   | Esc          | Menu / cancel          |
-| 5   | Left Ctrl    | Crouch / modifier      |
-| 6   | Left Shift   | Sprint / modifier      |
-| 7   | Tab          | Map / scoreboard       |
-| 8   | W            | Forward                |
-| 9   | A            | Strafe left            |
-| 10  | S            | Back                   |
-| 16  | D            | Strafe right           |
-| 14  | E            | Interact / use         |
-| 15  | R            | Reload                 |
-| 18  | ↑ Arrow      | Up                     |
-| 19  | ↓ Arrow      | Down                   |
-| 20  | ← Arrow      | Left                   |
-| 21  | → Arrow      | Right                  |
+| Pin | Key          |
+|-----|--------------|
+| 2   | Space        |
+| 3   | Enter        |
+| 4   | Esc          |
+| 5   | Left Ctrl    |
+| 6   | Left Shift   |
+| 7   | Tab          |
+| 8   | W            |
+| 9   | A            |
+| 10  | S            |
+| 16  | D            |
+| 14  | E            |
+| 15  | R            |
+| 18  | ↑ Arrow      |
+| 19  | ↓ Arrow      |
+| 20  | ← Arrow      |
+| 21  | → Arrow      |
